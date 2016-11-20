@@ -2,10 +2,38 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:FabrikamFood"
-             x:Class="FabrikamFood.MainPage">
+             x:Class="FabrikamFood.MainPage"
+             Page.BackgroundImage="@drawable/MainMenuBackground">
+  
+  <StackLayout>
+    <BoxView Color="#160000" VerticalOptions="Start" Margin="0,0,0,50"
+        HorizontalOptions="FillAndExpand" HeightRequest="130"/>
 
-  <Label Text="Welcome to Xamarin Forms!"
-           VerticalOptions="Center"
-           HorizontalOptions="Center" />
+    <StackLayout HeightRequest="280">
+      <Button Text="Menu" HeightRequest="70"
+        HorizontalOptions="FillAndExpand" />
+      <Button Text="Reservation" HeightRequest="70"
+        HorizontalOptions="FillAndExpand" />
+      <Button Text="Find Us" HeightRequest="70"
+        HorizontalOptions="FillAndExpand" />
+      <Button Text="About Us" HeightRequest="70"
+        HorizontalOptions="FillAndExpand" />
+      
+      <BoxView Color="#FFE895" HorizontalOptions="FillAndExpand"
+               HeightRequest="70" />
+     
+      <BoxView Color="#FC1234" HorizontalOptions="FillAndExpand" 
+               HeightRequest="70" />
+      <BoxView Color="#DDE987" HorizontalOptions="FillAndExpand" 
+               HeightRequest="70" />
+      <BoxView Color="#ABCDEF" HorizontalOptions="FillAndExpand" 
+               HeightRequest="70" />
+    </StackLayout>
+    
+
+  
+  
+  </StackLayout>
+  
 
 </ContentPage>

@@ -13,5 +13,9 @@ C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFo
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.App.xaml.g.cs
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.dll
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.pdb
+C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.MenuScreen.xaml.g.cs
+C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.ReservationScreen.xaml.g.cs
+C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.FindUsScreen.xaml.g.cs
+C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.AboutUsScreen.xaml.g.cs
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.dll.mdb
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\FabrikamFood.dll.mdb

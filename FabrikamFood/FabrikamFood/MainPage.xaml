@@ -5,19 +5,20 @@
              x:Class="FabrikamFood.MainPage"
              Page.BackgroundImage="@drawable/MainMenuBackground">
   
+<ContentPage.Content>  
   <StackLayout>
     <BoxView Color="#160000" VerticalOptions="Start" Margin="0,0,0,50"
         HorizontalOptions="FillAndExpand" HeightRequest="130"/>
 
     <StackLayout HeightRequest="280">
       <Button Text="Menu" HeightRequest="70"
-        HorizontalOptions="FillAndExpand" />
+        HorizontalOptions="FillAndExpand" Clicked="OnMenuClicked" />
       <Button Text="Reservation" HeightRequest="70"
-        HorizontalOptions="FillAndExpand" />
+        HorizontalOptions="FillAndExpand" Clicked="OnReservationClicked" />
       <Button Text="Find Us" HeightRequest="70"
-        HorizontalOptions="FillAndExpand" />
+        HorizontalOptions="FillAndExpand" Clicked="OnFindUsClicked" />
       <Button Text="About Us" HeightRequest="70"
-        HorizontalOptions="FillAndExpand" />
+        HorizontalOptions="FillAndExpand" Clicked="OnAboutUsClicked" />
       
       <BoxView Color="#FFE895" HorizontalOptions="FillAndExpand"
                HeightRequest="70" />
@@ -31,9 +32,9 @@
     </StackLayout>
     
 
-  
+    
   
   </StackLayout>
   
-
+</ContentPage.Content>
 </ContentPage>

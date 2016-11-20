@@ -21,9 +21,9 @@ C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFo
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll
-C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\System.Collections.dll
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
+C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\System.Collections.dll
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\System.ObjectModel.dll
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\System.Globalization.dll
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\System.ComponentModel.dll

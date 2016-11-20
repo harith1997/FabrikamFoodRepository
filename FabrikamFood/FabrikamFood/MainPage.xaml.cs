@@ -9,9 +9,34 @@ namespace FabrikamFood
 {
     public partial class MainPage : ContentPage
     {
+
         public MainPage()
         {
             InitializeComponent();
+        }
+
+        async void OnMenuClicked(object sender, EventArgs args)
+        {
+            Button button = (Button)sender;
+            await Navigation.PushModalAsync(new MenuScreen());
+        }
+
+        async void OnReservationClicked(object sender, EventArgs args)
+        {
+            Button button = (Button)sender;
+            await Navigation.PushModalAsync(new ReservationScreen());
+        }
+
+        async void OnFindUsClicked(object sender, EventArgs args)
+        {
+            Button button = (Button)sender;
+            await Navigation.PushModalAsync(new FindUsScreen());
+        }
+
+        async void OnAboutUsClicked(object sender, EventArgs args)
+        {
+            Button button = (Button)sender;
+            await Navigation.PushModalAsync(new AboutUsScreen());
         }
     }
 }

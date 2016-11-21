@@ -35,28 +35,31 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="AboutUsScreen.xaml.cs">
+    <Compile Include="Views\UpdateReservation.xaml.cs">
+      <DependentUpon>UpdateReservation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AboutUsScreen.xaml.cs">
       <DependentUpon>AboutUsScreen.xaml</DependentUpon>
     </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="FindUsScreen.xaml.cs">
+    <Compile Include="Views\FindUsScreen.xaml.cs">
       <DependentUpon>FindUsScreen.xaml</DependentUpon>
     </Compile>
-    <Compile Include="MainPage.xaml.cs">
+    <Compile Include="Views\MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="MenuScreen.xaml.cs">
+    <Compile Include="Views\MenuScreen.xaml.cs">
       <DependentUpon>MenuScreen.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ReservationScreen.xaml.cs">
+    <Compile Include="Views\ReservationScreen.xaml.cs">
       <DependentUpon>ReservationScreen.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="MainPage.xaml">
+    <EmbeddedResource Include="Views\MainPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
@@ -84,25 +87,31 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="MenuScreen.xaml">
+    <EmbeddedResource Include="Views\MenuScreen.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="ReservationScreen.xaml">
+    <EmbeddedResource Include="Views\ReservationScreen.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="FindUsScreen.xaml">
+    <EmbeddedResource Include="Views\FindUsScreen.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="AboutUsScreen.xaml">
+    <EmbeddedResource Include="Views\AboutUsScreen.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Views\UpdateReservation.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

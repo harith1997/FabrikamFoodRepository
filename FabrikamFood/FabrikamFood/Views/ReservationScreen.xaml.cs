@@ -14,5 +14,15 @@ namespace FabrikamFood
         {
             InitializeComponent();
         }
+
+        async void OnUpdateClicked(object sender, EventArgs args)
+        {
+            Button button = (Button)sender;
+            await Navigation.PushModalAsync(new UpdateReservation());
+        }
+
+
+
+
     }
 }

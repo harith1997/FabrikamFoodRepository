@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
+
 namespace FabrikamFood
 {
     public partial class MainPage : ContentPage
@@ -27,10 +28,11 @@ namespace FabrikamFood
             await Navigation.PushModalAsync(new ReservationScreen());
         }
 
-        async void OnFindUsClicked(object sender, EventArgs args)
+        void OnFindUsClicked(object sender, EventArgs args)
         {
             Button button = (Button)sender;
-            await Navigation.PushModalAsync(new FindUsScreen());
+            DependencyService.Get<INativeAndroidMaps>().startGoogleMaps();
+            //await Navigation.PushModalAsync(new FindUsScreen());
         }
 
         async void OnAboutUsClicked(object sender, EventArgs args)

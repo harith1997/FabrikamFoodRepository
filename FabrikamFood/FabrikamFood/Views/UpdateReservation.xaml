@@ -1,23 +1,53 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="FabrikamFood.UpdateReservation"> 
+             x:Class="FabrikamFood.UpdateReservation"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"> 
 <ContentPage.Content>
 
   <StackLayout>
     <Label Text="Update Reservation" TextColor="#000000" VerticalOptions="Start" HorizontalOptions="Center"
        FontSize="20" />
-    <StackLayout HeightRequest="280" VerticalOptions="Center" HorizontalOptions="Center" Margin="0, 50, 0, 0">
-      <Label Text="name:" VerticalOptions="Center" HorizontalOptions="Center" TextColor="#000000" Font="20" />
-      <Entry Placeholder="enter name" />
+    <StackLayout HeightRequest="280" VerticalOptions="Center" HorizontalOptions="Center" Margin="0, 30, 0, 0">
+      <Label Text="name:" VerticalOptions="Center" HorizontalOptions="Center" TextColor="#000000" Font="14" />
+      <Entry Placeholder="enter name" FontSize="14" />
 
-      <Label Text="Phone number:" VerticalOptions="Center" HorizontalOptions="Center" TextColor="#000000" Font="20" />
-      <Entry Placeholder="enter phone number" />
+      <Label Text="Phone number:" VerticalOptions="Center" HorizontalOptions="Center" TextColor="#000000" Font="14" />
+      <Entry Placeholder="enter phone number" FontSize="14" />
+
+      <StackLayout Margin="0, 0, 20, 0" HorizontalOptions="Start">
+        <Label Text="Date:" VerticalOptions="Center" HorizontalOptions="Start" TextColor="#000000" Font="14" />
+        <DatePicker VerticalOptions="CenterAndExpand" HorizontalOptions="Start" Date="{x:Static sys:DateTime.Now}" >
+          <DatePicker.Format>yyyy-MM-dd</DatePicker.Format>
+          <DatePicker.MinimumDate>
+            <sys:DateTime x:FactoryMethod="Parse">
+              <x:Arguments>
+                <x:String>Dec 1 2016</x:String>
+              </x:Arguments>
+            </sys:DateTime>
+          </DatePicker.MinimumDate>
+          <DatePicker.MaximumDate>
+            <sys:DateTime x:FactoryMethod="Parse">
+              <x:Arguments>
+                <x:String>Dec 31 2050</x:String>
+              </x:Arguments>
+            </sys:DateTime>
+          </DatePicker.MaximumDate>
+        </DatePicker>
+      </StackLayout>
+
+      <StackLayout Margin="0, 0, 20, 0" HorizontalOptions="Start">
+        <Label Text="Time:" VerticalOptions="Center" HorizontalOptions="Start" TextColor="#000000" Font="14" />
+        
+      </StackLayout>
+      <TimePicker HorizontalOptions="Start"  />
+      
+      
 
     </StackLayout>
 
 
-    <StackLayout HorizontalOptions="Start" VerticalOptions="End" Margin="0, 20, 0, 0">
+    <StackLayout HorizontalOptions="Start" VerticalOptions="End" Margin="0, 40, 0, 0">
       <Button Text="Save Changes" Margin="5, 0, 0, 0" />
       <Button Text="Cancel" />
     </StackLayout>

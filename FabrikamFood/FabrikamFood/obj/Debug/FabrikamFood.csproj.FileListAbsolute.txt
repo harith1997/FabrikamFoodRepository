@@ -38,5 +38,6 @@ C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\Fabr
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.Views.UpdateReservation.xaml.g.cs
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.pdb
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.csprojResolveAssemblyReference.cache
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\FabrikamFood.dll.mdb

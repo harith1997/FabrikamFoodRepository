@@ -2,20 +2,57 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="FabrikamFood.MenuScreen">
-  
 
-  <ContentPage.Content>
-    <StackLayout>
-      <Label Text="menu screen" TextColor="#000000" VerticalOptions="Center" HorizontalOptions="Center" />
-      
 
-      
-    </StackLayout>
+
+  <StackLayout>
+      <Label Text="Our Food Menu" TextColor="#000000" VerticalOptions="Center" HorizontalOptions="Center" />
+
+      <ListView x:Name="listViewMaster">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ImageCell Text="Food A" TextColor="#000000" Detail="food A details"/>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+        
+      </ListView>
+  </StackLayout>
     
+
+
+  <!-- 
+    <ListView x:Name="listViewMaster" HasUnevenRows="true" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ImageCell Text="Food A" Detail="food A details" ImageSource="@drawable/MainMenuBackground" /> 
+
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+
+
     
-  
+    <ListView  x:Name="listView">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <StackLayout BackgroundColor="#eee"
+            Orientation="Vertical">
+              <StackLayout Orientation="Horizontal">
+                <Image Source="@drawable/MainMenuBackground" />
+                <Label Text="test"
+                TextColor="#f35e20" />
+                <Label Text="gfddfg"
+                HorizontalOptions="EndAndExpand"
+                TextColor="#503026" />
+              </StackLayout>
+            </StackLayout>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
     
-    
-  </ContentPage.Content>
+
+ -->
   
 </ContentPage>

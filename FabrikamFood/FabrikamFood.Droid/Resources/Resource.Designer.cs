@@ -2728,8 +2728,11 @@ namespace FabrikamFood.Droid
 			// aapt resource value: 0x7f0200ee
 			public const int mr_ic_play_light = 2130837742;
 			
+			// aapt resource value: 0x7f0200f0
+			public const int notification_template_icon_bg = 2130837744;
+			
 			// aapt resource value: 0x7f0200ef
-			public const int notification_template_icon_bg = 2130837743;
+			public const int opening_hours = 2130837743;
 			
 			static Drawable()
 			{

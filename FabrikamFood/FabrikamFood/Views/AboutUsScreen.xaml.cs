@@ -8,7 +8,7 @@ using Xamarin.Forms;
 
 namespace FabrikamFood
 {
-    public partial class AboutUsScreen : ContentPage
+    public partial class AboutUsScreen : CarouselPage
     {
         public AboutUsScreen()
         {

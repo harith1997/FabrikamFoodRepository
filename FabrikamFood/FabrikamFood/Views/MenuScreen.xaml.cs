@@ -13,6 +13,7 @@ namespace FabrikamFood
         public MenuScreen()
         {
             InitializeComponent();
+
         }
     }
 }

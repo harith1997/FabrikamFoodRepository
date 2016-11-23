@@ -1,18 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              x:Class="FabrikamFood.AboutUsScreen">
+  <ContentPage>
+    <ContentPage.Padding>
+      <OnPlatform x:TypeArguments="Thickness" iOS="0,40,0,0" Android="0,40,0,0" />
+    </ContentPage.Padding>
+    <StackLayout>
+      <Label Text="Opening Hours" FontSize="Large" HorizontalOptions="Center" />
+      <Image Source="opening_hours.png" WidthRequest="250" HeightRequest="300" HorizontalOptions="Center" />
+
+      <Label Text="A little About Us...->" FontSize="Medium" HorizontalOptions="Center" />
+     
+    </StackLayout>
+  </ContentPage>
+  
+  <ContentPage>
+    <ContentPage.Padding>
+      <OnPlatform x:TypeArguments="Thickness" iOS="0,40,0,0" Android="0,40,0,0" />
+    </ContentPage.Padding>
+    <StackLayout>
+      <Label Text="Blue" FontSize="Medium" HorizontalOptions="Center" />
+      <BoxView Color="Blue" WidthRequest="200" HeightRequest="200" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+    </StackLayout>
+  </ContentPage>
+  
+  <ContentPage>
+    <ContentPage.Padding>
+      <OnPlatform x:TypeArguments="Thickness" iOS="0,40,0,0" Android="0,40,0,0" />
+    </ContentPage.Padding>
+    <StackLayout>
+      <Label Text="Green" FontSize="Medium" HorizontalOptions="Center" />
+      <BoxView Color="Green" WidthRequest="200" HeightRequest="200" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+    </StackLayout>
+  </ContentPage>
+  
+</CarouselPage>
+
+
+
+
+<!--
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="FabrikamFood.AboutUsScreen">
-  <ContentPage.Content>
+  
+   <ContentPage.Content> 
+    
+   
     <StackLayout>
       <Label Text="about us screen" TextColor="#E0F00E" VerticalOptions="Center" HorizontalOptions="Center" />
-
-
-
+      
     </StackLayout>
-
-
-
-
-
-  </ContentPage.Content>
+  
+ 
+    
+    </ContentPage.Content> 
 </ContentPage>
+
+-->

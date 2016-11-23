@@ -160,5 +160,6 @@ C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\Fabr
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\res\drawable\opening_hours.png
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\FabrikamFood.Droid.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\FabrikamFood.Droid.dll.mdb

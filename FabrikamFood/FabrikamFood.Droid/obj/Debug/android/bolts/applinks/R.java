@@ -3038,7 +3038,8 @@ containing a value of this type.
         public static final int mr_ic_pause_light=0x7f0200ec;
         public static final int mr_ic_play_dark=0x7f0200ed;
         public static final int mr_ic_play_light=0x7f0200ee;
-        public static final int notification_template_icon_bg=0x7f0200ef;
+        public static final int notification_template_icon_bg=0x7f0200f0;
+        public static final int opening_hours=0x7f0200ef;
     }
     public static final class id {
         public static final int action0=0x7f0a00af;

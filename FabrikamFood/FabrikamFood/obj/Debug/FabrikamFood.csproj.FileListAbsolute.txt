@@ -19,16 +19,31 @@ C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFo
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.pdb
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.dll.mdb
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\FabrikamFood.dll.mdb
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\FabrikamFood.dll.config
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\FabrikamFood.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\FabrikamFood.pdb
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\Mono.Android.dll
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\System.Net.Http.dll
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\System.Net.Http.Primitives.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\Xamarin.Forms.Core.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\Xamarin.Forms.Platform.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\Mono.Android.xml
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\System.Net.Http.xml
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\System.Net.Http.Primitives.xml
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\Xamarin.Forms.Core.pdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\Xamarin.Forms.Core.xml
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.csproj.App.config
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.csprojResolveAssemblyReference.cache
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.Views.MainPage.xaml.g.cs
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.App.xaml.g.cs
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.Views.MenuScreen.xaml.g.cs
@@ -36,8 +51,8 @@ C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\Fabr
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.Views.FindUsScreen.xaml.g.cs
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.Views.AboutUsScreen.xaml.g.cs
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.Views.UpdateReservation.xaml.g.cs
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.Views.FacebookLoginScreen.xaml.g.cs
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.pdb
-C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.csprojResolveAssemblyReference.cache
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\obj\Debug\FabrikamFood.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood\bin\Debug\FabrikamFood.dll.mdb

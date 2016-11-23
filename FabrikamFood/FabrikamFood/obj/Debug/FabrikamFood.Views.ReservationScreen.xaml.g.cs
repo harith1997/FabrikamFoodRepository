@@ -17,8 +17,24 @@ namespace FabrikamFood {
     public partial class ReservationScreen : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label nameLabel;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label phoneLabel;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label dateLabel;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label timeLabel;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(ReservationScreen));
+            nameLabel = this.FindByName<global::Xamarin.Forms.Label>("nameLabel");
+            phoneLabel = this.FindByName<global::Xamarin.Forms.Label>("phoneLabel");
+            dateLabel = this.FindByName<global::Xamarin.Forms.Label>("dateLabel");
+            timeLabel = this.FindByName<global::Xamarin.Forms.Label>("timeLabel");
         }
     }
 }

@@ -14,9 +14,12 @@ namespace FabrikamFood
         private MobileServiceClient client;
         private IMobileServiceTable<Reservation> reservationTable;
 
+      
+
+
         private AzureManager()
         {
-            this.client = new MobileServiceClient("MOBILE_APP_URL");
+            this.client = new MobileServiceClient("https://FabrikamFood2.azurewebsites.net/");
             this.reservationTable = this.client.GetTable<Reservation>();
         }
 
@@ -36,6 +39,21 @@ namespace FabrikamFood
 
                 return instance;
             }
+        }
+
+        public async Task AddReservation(Reservation reservation)
+        {
+            await this.reservationTable.InsertAsync(reservation);
+        }
+
+        public async Task DeleteReservation(Reservation reservation)
+        {
+            await this.reservationTable.DeleteAsync(reservation);
+        }
+
+        public async Task UpdateReservation(Reservation reservation)
+        {
+            await this.reservationTable.UpdateAsync(reservation);
         }
 
         public async Task<List<Reservation>> GetReservations()

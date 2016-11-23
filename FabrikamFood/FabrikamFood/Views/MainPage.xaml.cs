@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FabrikamFood.Views;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,7 +26,8 @@ namespace FabrikamFood
         async void OnReservationClicked(object sender, EventArgs args)
         {
             Button button = (Button)sender;
-            await Navigation.PushModalAsync(new ReservationScreen());
+            await Navigation.PushModalAsync(new FacebookLoginScreen());
+            //await Navigation.PushModalAsync(new ReservationScreen());
         }
 
         void OnFindUsClicked(object sender, EventArgs args)

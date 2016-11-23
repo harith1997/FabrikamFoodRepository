@@ -25,6 +25,9 @@ namespace FabrikamFood.DataModels
         [JsonProperty(PropertyName = "time")]
         public string Time { get; set; }
 
+        [JsonProperty(PropertyName = "fbID")]
+        public string FBID { get; set; }
+
 
 
 

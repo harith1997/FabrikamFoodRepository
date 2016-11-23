@@ -65,15 +65,20 @@ C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFo
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\wannigama\Documents\Visual Studio 2015\Projects\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\FabrikamFood.Droid.dll.mdb
-C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\FabrikamFood.Droid.csprojResolveAssemblyReference.cache
-C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\FabrikamFood.Droid.dll
-C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\FabrikamFood.Droid.pdb
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\FabrikamFood.Droid.dll.config
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\FabrikamFood.Droid.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\FabrikamFood.Droid.pdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\com.msa.FabrikamFood.apk
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\com.msa.FabrikamFood-Signed.apk
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Bolts.AppLinks.dll
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Bolts.Tasks.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\FabrikamFood.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\System.Net.Http.Primitives.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
@@ -82,6 +87,7 @@ C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\Fabr
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Facebook.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Forms.Core.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Forms.Platform.dll
@@ -92,6 +98,11 @@ C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\Fabr
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\FabrikamFood.pdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\FormsViewGroup.pdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\System.Net.Http.Primitives.xml
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Forms.Core.pdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Forms.Core.xml
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
@@ -100,6 +111,9 @@ C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\Fabr
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\FabrikamFood.Droid.csprojResolveAssemblyReference.cache
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\FabrikamFood.Droid.dll
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\FabrikamFood.Droid.pdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\bin\com.msa.FabrikamFood.apk
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\res\layout\googlemapsaxml.xml
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\res\drawable\icon.png
@@ -115,7 +129,9 @@ C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\Fabr
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\FabrikamFood.Droid.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\FabrikamFood.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\Mono.CSharp.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\mscorlib.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\bin\Debug\System.Core.dll.mdb
@@ -129,7 +145,9 @@ C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\Fabr
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\FabrikamFood.Droid.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
 C:\Users\wannigama\Desktop\FabrikamFood\FabrikamFoodRepository\FabrikamFood\FabrikamFood.Droid\obj\Debug\android\assets\System.Core.dll.mdb

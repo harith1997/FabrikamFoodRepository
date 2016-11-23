@@ -17,8 +17,24 @@ namespace FabrikamFood {
     public partial class UpdateReservation : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Entry nameEntry;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Entry phoneEntry;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.DatePicker dateEntry;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.TimePicker timeEntry;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(UpdateReservation));
+            nameEntry = this.FindByName<global::Xamarin.Forms.Entry>("nameEntry");
+            phoneEntry = this.FindByName<global::Xamarin.Forms.Entry>("phoneEntry");
+            dateEntry = this.FindByName<global::Xamarin.Forms.DatePicker>("dateEntry");
+            timeEntry = this.FindByName<global::Xamarin.Forms.TimePicker>("timeEntry");
         }
     }
 }
